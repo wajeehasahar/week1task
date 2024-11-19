@@ -1,0 +1,1 @@
+there are  week one task of my remote internship. in this file there are many other file which contains jupyter notebook of each project and some txt files .in which files there are describing the purpose 
